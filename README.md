@@ -1,12 +1,51 @@
-# React + Vite
+# ✅ Navy Blue To-Do App ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish, minimal, and interactive To-Do list app built with **React.js** and **Tailwind CSS**.  
+Manage your tasks in a beautiful navy blue themed interface with smooth filters and animations. 💙
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📝 Add Tasks with a single click or Enter key
+- ✅ Mark tasks as completed or active
+- 🗑️ Delete unwanted tasks
+- 🔍 Filter tasks: All | Active | Completed
+- 🎨 Stylish UI with navy blue shades and glassmorphism effect
+- 📱 Fully responsive layout
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Preview
+
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **React.js** – Functional components and Hooks
+- 🎨 **Tailwind CSS** – Utility-first modern styling
+- 💻 HTML5, JSX
+
+---
+
+
+
+---
+
+## 📁 Project Setup
+
+To run this project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/navy-blue-todo.git
+
+# Navigate into the project folder
+cd navy-blue-todo
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
